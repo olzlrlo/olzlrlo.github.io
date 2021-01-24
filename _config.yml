@@ -22,7 +22,7 @@ social-network-links:
   github: olzlrlo
 
 # If you want to show a link to an RSS in the footer, add the site description here.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
